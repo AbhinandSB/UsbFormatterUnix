@@ -29,7 +29,7 @@ Methodology:
 -->The application will help user choose a drive from the available list of drives\
 -->Details of the chosen drive are attached to a string  (refer: f() in usb.py)\
 -->This string is the command that will be run in the terminal\
--->The command is then executed in the terminal and the Format complete alert is shown\
+-->The command is then executed in the terminal and the Format complete alert is shown
 
 
 ## Recommended
